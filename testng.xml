@@ -11,6 +11,7 @@
                 <include name="TestSix"/>
                 <include name="TestSeven"/>
                 <include name="TestEight"/>
+                <include name="TestNine"/>
             </methods>
         </class>
     </classes>

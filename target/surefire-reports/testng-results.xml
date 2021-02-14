@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-12T16:53:39 GMT" name="All Test Suite" finished-at="2021-02-12T16:53:57 GMT" duration-ms="17533">
+  <suite started-at="2021-02-12T21:51:11 GMT" name="All Test Suite" finished-at="2021-02-12T21:51:26 GMT" duration-ms="14502">
     <groups>
     </groups>
-    <test started-at="2021-02-12T16:53:39 GMT" name="C:/Users/Steve/IdeaProjects/45AddressOnMyWebsite/src/main" finished-at="2021-02-12T16:53:57 GMT" duration-ms="17533">
+    <test started-at="2021-02-12T21:51:11 GMT" name="C:/Users/Steve/IdeaProjects/45AddressOnMyWebsite/src/main" finished-at="2021-02-12T21:51:26 GMT" duration-ms="14502">
       <class name="AddressOnMyWebsite.AddressFields">
-        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:39 GMT" name="StartBrowser" description="This is to test the URL is called" finished-at="2021-02-12T16:53:55 GMT" duration-ms="16092" status="PASS">
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:11 GMT" name="StartBrowser" description="This is to test the URL is called" finished-at="2021-02-12T21:51:23 GMT" duration-ms="12075" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartBrowser -->
-        <test-method signature="TestOne()[pri:1, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:55 GMT" name="TestOne" description="This is to test the Address1 field has had data entered" finished-at="2021-02-12T16:53:56 GMT" duration-ms="211" status="PASS">
+        <test-method signature="TestOne()[pri:1, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:23 GMT" name="TestOne" description="This is to test the Address1 field has had data entered" finished-at="2021-02-12T21:51:23 GMT" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestOne -->
-        <test-method signature="TestTwo()[pri:2, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:56 GMT" name="TestTwo" description="This is to test the Address2 field has had data entered" finished-at="2021-02-12T16:53:56 GMT" duration-ms="147" status="PASS">
+        <test-method signature="TestTwo()[pri:2, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:23 GMT" name="TestTwo" description="This is to test the Address2 field has had data entered" finished-at="2021-02-12T21:51:24 GMT" duration-ms="143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestTwo -->
-        <test-method signature="TestThree()[pri:3, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:56 GMT" name="TestThree" description="This is to test the County field has had data entered" finished-at="2021-02-12T16:53:56 GMT" duration-ms="128" status="PASS">
+        <test-method signature="TestThree()[pri:3, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:24 GMT" name="TestThree" description="This is to test the County field has had data entered" finished-at="2021-02-12T21:51:24 GMT" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestThree -->
-        <test-method signature="TestFour()[pri:4, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:56 GMT" name="TestFour" description="This is to test the Post Code field has had data entered" finished-at="2021-02-12T16:53:56 GMT" duration-ms="125" status="PASS">
+        <test-method signature="TestFour()[pri:4, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:24 GMT" name="TestFour" description="This is to test the Post Code field has had data entered" finished-at="2021-02-12T21:51:24 GMT" duration-ms="129" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFour -->
-        <test-method signature="TestFive()[pri:5, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:56 GMT" name="TestFive" description="This is to test the Country field has had data entered" finished-at="2021-02-12T16:53:56 GMT" duration-ms="115" status="PASS">
+        <test-method signature="TestFive()[pri:5, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:24 GMT" name="TestFive" description="This is to test the Country field has had data entered" finished-at="2021-02-12T21:51:24 GMT" duration-ms="110" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFive -->
-        <test-method signature="TestSix()[pri:6, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:56 GMT" name="TestSix" description="This is to test the Date of Birth field has had data entered" finished-at="2021-02-12T16:53:56 GMT" duration-ms="127" status="PASS">
+        <test-method signature="TestSix()[pri:6, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:24 GMT" name="TestSix" description="This is to test the Date of Birth field has had data entered" finished-at="2021-02-12T21:51:24 GMT" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSix -->
-        <test-method signature="TestSeven()[pri:7, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:56 GMT" name="TestSeven" description="This is to test the Send key has been clicked" finished-at="2021-02-12T16:53:57 GMT" duration-ms="489" status="PASS">
+        <test-method signature="TestSeven()[pri:7, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:24 GMT" name="TestSeven" description="This is to test the Send key has been clicked" finished-at="2021-02-12T21:51:26 GMT" duration-ms="1455" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestSeven -->
-        <test-method signature="TestEight()[pri:8, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T16:53:57 GMT" name="TestEight" description="This is to test that the browser closes" finished-at="2021-02-12T16:53:57 GMT" duration-ms="19" status="PASS">
+        <test-method signature="TestEight()[pri:8, instance:AddressOnMyWebsite.AddressFields@1d548a08]" started-at="2021-02-12T21:51:26 GMT" name="TestEight" description="This is to test that the browser closes" finished-at="2021-02-12T21:51:26 GMT" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestEight -->
